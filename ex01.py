@@ -1,0 +1,1 @@
+print('Teste de Utilização do VsCode com linguagem Python')
